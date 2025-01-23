@@ -1,4 +1,4 @@
-# Machine-Learning-Competitions
+# Housing Prices Competition for Kaggle Learn Users
 File descriptions
 train.csv - the training set
 test.csv - the test set
