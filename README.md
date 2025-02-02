@@ -4,8 +4,11 @@
 "This competition aims to predict housing prices based on various features such as location, square footage, and number of bedrooms. The dataset consists of historical housing prices, and submissions will be evaluated based on Root Mean Squared Error (RMSE)."
 
 📂 Dataset Description
+
 train.csv - Contains labeled training data
+
 test.csv - Contains unlabeled test data for predictions
+
 sample_submission.csv - Example format for final submission
 
 📊 Evaluation Metric
