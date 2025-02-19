@@ -1,7 +1,5 @@
 # House Price Prediction
 
-This repository contains a Jupyter Notebook for predicting house prices using machine learning techniques.
-
 ## 📌 Project Overview
 This project aims to analyze and predict house prices based on various features such as location, size, and amenities. The dataset is processed and explored using Python, and machine learning models are applied to generate accurate price predictions.
 
