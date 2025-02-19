@@ -41,11 +41,10 @@ Run the notebook step by step to:
 ```
 /house-price-prediction
 │── House_Price.ipynb
-│── requirements.txt
 │── README.md
 └── data/
      ├── house_prices.csv
-     └── processed_data.csv
+     
 ```
 
 ## 🤝 Contributing
